@@ -9,7 +9,7 @@ using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-//Модифікована проограма регістрації
+//Модифікована програма регістрації
 
 namespace Forms_lab_1
 {
